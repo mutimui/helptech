@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Keep keyboard focus visible even on controls with outline-none utilities. */
+:is(button, a, input, select, textarea):focus-visible {
+  outline: 2px solid #1e6091;
+  outline-offset: 3px;
+}
+
+.dark :is(button, a, input, select, textarea):focus-visible {
+  outline-color: var(--color-sky-400);
+}
+
+aside button:focus-visible {
+  outline-color: white;
+  outline-offset: -3px;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

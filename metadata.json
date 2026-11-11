@@ -1,0 +1,6 @@
+{
+  "name": "HelpTec - Sistema de Chamados Fatec",
+  "description": "Sistema institucional de suporte e manutenção da Fatec para abertura e gestão de chamados técnicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

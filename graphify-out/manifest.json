@@ -1,0 +1,184 @@
+{
+  ".aistudio/artifacts/brain/ec846984-2cf0-4867-bd26-9a9c3274bf5a/implementation_plan.md.metadata.json": {
+    "mtime": 1793934143.0272098,
+    "seen": 1793934172.4547782,
+    "ast_hash": "04be00ad9922289a688397e28030d60e",
+    "semantic_hash": "04be00ad9922289a688397e28030d60e",
+    "ast_empty": true
+  },
+  "metadata.json": {
+    "mtime": 1793934143.0163994,
+    "seen": 1793934172.4547782,
+    "ast_hash": "4e7c6eb6cee9a527f8ac3bf224b6381c",
+    "semantic_hash": "4e7c6eb6cee9a527f8ac3bf224b6381c",
+    "ast_empty": true
+  },
+  "package.json": {
+    "mtime": 1793934868.1457715,
+    "seen": 1793935260.6089106,
+    "ast_hash": "5f0126800ebfa9bc2e653a0d1acb003c",
+    "semantic_hash": "5f0126800ebfa9bc2e653a0d1acb003c"
+  },
+  "src/App.tsx": {
+    "mtime": 1794084551.209334,
+    "seen": 1794084821.238514,
+    "ast_hash": "5a5e4fd6e87448d834caca03053e3d75",
+    "semantic_hash": "5a5e4fd6e87448d834caca03053e3d75"
+  },
+  "src/components/brand/FatecLogo.tsx": {
+    "mtime": 1793934143.029879,
+    "seen": 1793934172.455778,
+    "ast_hash": "178d2ebf869647abfd0a0d7e1e69e236",
+    "semantic_hash": "178d2ebf869647abfd0a0d7e1e69e236"
+  },
+  "src/components/brand/HelpTecBrand.tsx": {
+    "mtime": 1793934143.0334206,
+    "seen": 1793934172.455778,
+    "ast_hash": "e732a7bec0bca86320990b22df4e7ba8",
+    "semantic_hash": "e732a7bec0bca86320990b22df4e7ba8"
+  },
+  "src/components/brand/HelpTecMascot.tsx": {
+    "mtime": 1793934143.0323827,
+    "seen": 1793934172.4582832,
+    "ast_hash": "b6445d4d64477a34e06a9df10b9447ad",
+    "semantic_hash": "b6445d4d64477a34e06a9df10b9447ad"
+  },
+  "src/components/common/ThemeToggle.tsx": {
+    "mtime": 1793934353.3146465,
+    "seen": 1793934522.446658,
+    "ast_hash": "bff68dd97a65443467cdc2bfceaa8e3b",
+    "semantic_hash": "bff68dd97a65443467cdc2bfceaa8e3b"
+  },
+  "src/components/layout/DashboardHeader.tsx": {
+    "mtime": 1793935049.5946057,
+    "seen": 1793935260.6114688,
+    "ast_hash": "e6368666f8f403a73d6f6a0188e1825d",
+    "semantic_hash": "e6368666f8f403a73d6f6a0188e1825d"
+  },
+  "src/components/layout/FatecHeader.tsx": {
+    "mtime": 1793934143.0345259,
+    "seen": 1793934172.4622908,
+    "ast_hash": "e5aaf2cfbb2e2b2015ce558531ad89c7",
+    "semantic_hash": "e5aaf2cfbb2e2b2015ce558531ad89c7"
+  },
+  "src/components/layout/Sidebar.tsx": {
+    "mtime": 1794084551.2108133,
+    "seen": 1794084821.2395146,
+    "ast_hash": "91b43ec47cc46861be26d5b2ecae4995",
+    "semantic_hash": "91b43ec47cc46861be26d5b2ecae4995"
+  },
+  "src/main.tsx": {
+    "mtime": 1793934143.024663,
+    "seen": 1793934172.4627938,
+    "ast_hash": "c54bc4338b4552045d4ff81e948ad087",
+    "semantic_hash": "c54bc4338b4552045d4ff81e948ad087"
+  },
+  "src/store/authSlice.ts": {
+    "mtime": 1793934143.0334206,
+    "seen": 1793934172.4627938,
+    "ast_hash": "66155f14b4d4a995ce65dfa84ea2b935",
+    "semantic_hash": "66155f14b4d4a995ce65dfa84ea2b935"
+  },
+  "src/store/index.ts": {
+    "mtime": 1793934143.0308802,
+    "seen": 1793934172.4637957,
+    "ast_hash": "a0f22789af9522d8188858d7178565d7",
+    "semantic_hash": "a0f22789af9522d8188858d7178565d7"
+  },
+  "src/store/navigationSlice.ts": {
+    "mtime": 1794084551.2067654,
+    "seen": 1794084821.2408347,
+    "ast_hash": "da7f9395a7e9695a9deea7bfb59abae6",
+    "semantic_hash": "da7f9395a7e9695a9deea7bfb59abae6"
+  },
+  "src/store/themeSlice.ts": {
+    "mtime": 1793934143.0412025,
+    "seen": 1793934172.4637957,
+    "ast_hash": "e16cbf7f82d6a98083c39fe1c29c2589",
+    "semantic_hash": "e16cbf7f82d6a98083c39fe1c29c2589"
+  },
+  "src/store/ticketSlice.ts": {
+    "mtime": 1793934868.1437297,
+    "seen": 1793935260.6150122,
+    "ast_hash": "a2120df5f1cf465131bfef3a33b1cb4b",
+    "semantic_hash": "a2120df5f1cf465131bfef3a33b1cb4b"
+  },
+  "src/types/index.ts": {
+    "mtime": 1793934143.028713,
+    "seen": 1793934172.4657986,
+    "ast_hash": "0319466c9f714e9dd5b8ae905aa68ba1",
+    "semantic_hash": "0319466c9f714e9dd5b8ae905aa68ba1"
+  },
+  "src/views/AdminTicketsView.tsx": {
+    "mtime": 1793935049.5911012,
+    "seen": 1793935260.6150122,
+    "ast_hash": "546bdd87a9b1b199fa272f6e555db354",
+    "semantic_hash": "546bdd87a9b1b199fa272f6e555db354"
+  },
+  "src/views/AnalyticsView.tsx": {
+    "mtime": 1793934836.759803,
+    "seen": 1793935260.6165164,
+    "ast_hash": "82264e4437ae48f5a26e33ced3231fe3",
+    "semantic_hash": "82264e4437ae48f5a26e33ced3231fe3"
+  },
+  "src/views/CompletedTicketsView.tsx": {
+    "mtime": 1793935049.5921137,
+    "seen": 1793935260.6165164,
+    "ast_hash": "78dfae590d88ae1ee9aaf53654e86270",
+    "semantic_hash": "78dfae590d88ae1ee9aaf53654e86270"
+  },
+  "src/views/CreateTicketView.tsx": {
+    "mtime": 1794079606.5793035,
+    "seen": 1794079733.7136924,
+    "ast_hash": "a934d7feea71d130854a54555e61137b",
+    "semantic_hash": "a934d7feea71d130854a54555e61137b"
+  },
+  "src/views/HomeView.tsx": {
+    "mtime": 1794079606.5778015,
+    "seen": 1794079733.7136924,
+    "ast_hash": "b90a552e1503aba3c672f4139b1cba9d",
+    "semantic_hash": "b90a552e1503aba3c672f4139b1cba9d"
+  },
+  "src/views/LoginView.tsx": {
+    "mtime": 1793935049.5936005,
+    "seen": 1793935260.6175644,
+    "ast_hash": "f68a0283377e39674c040b031a3807b6",
+    "semantic_hash": "f68a0283377e39674c040b031a3807b6"
+  },
+  "src/views/MyTicketsView.tsx": {
+    "mtime": 1793935049.5946057,
+    "seen": 1793935260.6175644,
+    "ast_hash": "b5efd19e5c0e654d4b706279168a265b",
+    "semantic_hash": "b5efd19e5c0e654d4b706279168a265b"
+  },
+  "tsconfig.json": {
+    "mtime": 1793934143.0174277,
+    "seen": 1793934172.4683046,
+    "ast_hash": "c9ce11f97b614219001b418db5fe4190",
+    "semantic_hash": "c9ce11f97b614219001b418db5fe4190"
+  },
+  "vite.config.ts": {
+    "mtime": 1793934143.0499196,
+    "seen": 1793934172.4693081,
+    "ast_hash": "73f4702488a6cab080ba164c521eb19c",
+    "semantic_hash": "73f4702488a6cab080ba164c521eb19c"
+  },
+  "pnpm-workspace.yaml": {
+    "mtime": 1793934353.3146465,
+    "seen": 1793934522.4456017,
+    "ast_hash": "3c54c6f30031556b5fdfcdd73560a46d",
+    "semantic_hash": "3c54c6f30031556b5fdfcdd73560a46d"
+  },
+  "tests/tickets.test.ts": {
+    "mtime": 1793934868.1447694,
+    "seen": 1793935260.6175644,
+    "ast_hash": "9073f1532a54dc641d8dcef8d570d42b",
+    "semantic_hash": "9073f1532a54dc641d8dcef8d570d42b"
+  },
+  "tests/navigation.test.ts": {
+    "mtime": 1794084551.2118158,
+    "seen": 1794084821.2428803,
+    "ast_hash": "9cf142ce5e99fabdea0fe7b9a09bd195",
+    "semantic_hash": "9cf142ce5e99fabdea0fe7b9a09bd195"
+  }
+}
